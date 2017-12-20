@@ -5,8 +5,7 @@
 ## Lessons
 - [Ebb and Flow](#ebb-and-flow)
 - [Web Safe Fonts](#web-safe-fonts)
-- [Best Practices](#best-practices)
-- [Final Edits](#final-edits)
+- [Single Serving Sites](#single-serving-sites)
 
 - - -
 
